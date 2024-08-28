@@ -1,0 +1,50 @@
+body, h1, p, span{
+  margin: 0px;
+}
+ul{
+  margin: 0px;
+  padding: 0px; 
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+@font-face {
+  font-family: 'Aeriast';
+  src: url('/tipografia/Aeriast.otf') format('opentype');
+}
+:root{
+  --cor-1:#131313;
+  --cor-2:#3F3E3E;
+  --cor-3:#FEF5E3;
+  --cor-4: #9E252F;
+  --titulo: "Aeriast";
+  --texto:"Montserrat", sans-serif;
+}
+
+body, h1, p, span{
+  margin: 0px;
+}
+ul{
+  margin: 0px;
+  padding: 0px; 
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+@font-face {
+  font-family: 'Aeriast';
+  src: url('/tipografia/Aeriast.otf') format('opentype');
+}
+:root{
+  --cor-1:#131313;
+  --cor-2:#3F3E3E;
+  --cor-3:#FEF5E3;
+  --cor-4: #9E252F;
+  --titulo: "Aeriast";
+  --texto:"Montserrat", sans-serif;
+}
+
